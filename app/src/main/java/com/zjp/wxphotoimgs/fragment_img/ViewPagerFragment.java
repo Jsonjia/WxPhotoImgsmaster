@@ -24,7 +24,6 @@ import com.bumptech.glide.request.target.SimpleTarget;
 import com.bumptech.glide.request.transition.Transition;
 import com.zjp.wxphotoimgs.R;
 import com.zjp.wxphotoimgs.databinding.FragmentViewpagerBinding;
-import com.zjp.wxphotoimgs.databinding.LayoutViewDetailBinding;
 import com.zjp.wxphotoimgs.fragment_img.widget.ImageInfo;
 import com.zjp.wxphotoimgs.fragment_img.widget.MaterialProgressBar;
 import com.zjp.wxphotoimgs.fragment_img.widget.PhotoView;

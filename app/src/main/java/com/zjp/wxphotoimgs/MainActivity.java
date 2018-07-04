@@ -34,6 +34,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void transitionClick(View view) {
-        Log.d("zjp", "11111111111");
+
     }
 }
